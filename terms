@@ -7,196 +7,134 @@
   <style>
     body {
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif;
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px 24px;
       line-height: 1.6;
       color: #222;
       background: #fff;
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 40px 20px;
     }
-    h1 {
-      font-size: 32px;
-      margin-bottom: 8px;
-    }
-    h2 {
-      margin-top: 32px;
-      font-size: 21px;
-    }
-    p, li {
-      font-size: 15px;
-    }
-    .updated {
-      color: #666;
-      margin-bottom: 32px;
-    }
-    a {
-      color: inherit;
-    }
+h1 {
+  font-size: 32px;
+  margin-bottom: 8px;
+}
+h2 {
+  margin-top: 32px;
+  font-size: 22px;
+}
+p, li {
+  font-size: 16px;
+}
+.updated {
+  color: #666;
+  margin-bottom: 32px;
+}
+a {
+  color: #0066cc;
+}
   </style>
 </head>
 <body>
-  <h1>Terms of Service</h1>
-  <p class="updated">Last updated: November 9, 2026</p>
-  <p>
-    These Terms of Service ("Terms") govern your use of Beauty Cam Plus
-    ("the App"), provided by the developer of Beauty Cam Plus ("we", "us",
-    or "our").
-  </p>
-  <p>
-    By downloading, installing, accessing, or using Beauty Cam Plus, you
-    agree to these Terms. If you do not agree with these Terms, please do
-    not use the App.
-  </p>
-  <h2>1. Use of the App</h2>
-  <p>
-    Beauty Cam Plus provides camera, photo editing, beauty, retouching,
-    filtering, effects, and video editing features.
-  </p>
-  <p>
-    You may use the App only for lawful purposes and in accordance with
-    these Terms. You are responsible for your use of the App and for
-    ensuring that your use of the App complies with applicable laws.
-  </p>
-  <h2>2. Your Photos and Videos</h2>
-  <p>
-    You retain ownership of photos and videos that you create, capture,
-    import, or edit using the App.
-  </p>
-  <p>
-    Beauty Cam Plus does not claim ownership of your personal photos or
-    videos merely because you use them with the App.
-  </p>
-  <p>
-    You are responsible for ensuring that you have the necessary rights
-    and permissions to use any photos, videos, or other content that you
-    import or edit.
-  </p>
-  <h2>3. Camera and Media Access</h2>
-  <p>
-    The App may request access to your camera and device media so that
-    you can capture, select, edit, save, and export photos and videos.
-  </p>
-  <p>
-    You can control these permissions through your device settings.
-    Certain features may not function if the required permissions are
-    denied.
-  </p>
-  <h2>4. Premium Features and Purchases</h2>
-  <p>
-    Beauty Cam Plus may offer paid features, subscriptions, or other
-    in-app purchases through Google Play.
-  </p>
-  <p>
-    Purchases are processed through Google Play and are subject to the
-    applicable Google Play terms and payment policies.
-  </p>
-  <p>
-    Prices, billing periods, renewal terms, and available products are
-    displayed through the App or Google Play at the time of purchase.
-  </p>
-  <h2>5. Subscriptions</h2>
-  <p>
-    Where a subscription is available, it may automatically renew unless
-    cancelled according to the applicable Google Play subscription
-    settings.
-  </p>
-  <p>
-    You can manage or cancel subscriptions through your Google Play
-    account settings, subject to Google's applicable subscription terms.
-  </p>
-  <p>
-    We do not control Google's payment processing, billing systems, or
-    refund policies. Refunds and payment-related matters may be subject
-    to Google Play's policies.
-  </p>
-  <h2>6. Advertisements</h2>
-  <p>
-    The App may display advertisements. Advertisements may be provided
-    by third-party advertising services and may be subject to those
-    providers' own terms and privacy practices.
-  </p>
-  <h2>7. Intellectual Property</h2>
-  <p>
-    The App, including its software, design, interface, graphics,
-    trademarks, branding, and other original materials, is owned by or
-    licensed to us and is protected by applicable intellectual property
-    laws.
-  </p>
-  <p>
-    Except as permitted by law, you may not copy, modify, distribute,
-    reverse engineer, sell, or commercially exploit the App or its
-    components without authorization.
-  </p>
-  <h2>8. Prohibited Use</h2>
-  <p>You agree not to:</p>
-  <ul>
-    <li>Use the App for unlawful or fraudulent purposes.</li>
-    <li>Attempt to gain unauthorized access to the App or its systems.</li>
-    <li>Interfere with or disrupt the operation of the App.</li>
-    <li>Reverse engineer or attempt to extract the source code except where permitted by applicable law.</li>
-    <li>Use the App to create or distribute content that violates applicable laws or the rights of others.</li>
-  </ul>
-  <h2>9. Third-Party Services</h2>
-  <p>
-    The App may rely on third-party services, including Google Play and
-    other service providers required to provide certain functionality.
-  </p>
-  <p>
-    Your use of third-party services may be subject to their own terms
-    and conditions. We are not responsible for the availability or
-    operation of third-party services.
-  </p>
-  <h2>10. Availability and Changes</h2>
-  <p>
-    We may modify, update, suspend, or discontinue features of the App
-    from time to time. We may also release updates that change or improve
-    functionality.
-  </p>
-  <p>
-    We do not guarantee that every feature will always be available or
-    that the App will be completely uninterrupted or error-free.
-  </p>
-  <h2>11. Disclaimer</h2>
-  <p>
-    The App is provided on an "as is" and "as available" basis to the
-    extent permitted by applicable law.
-  </p>
-  <p>
-    We do not guarantee that the App will meet every user's requirements,
-    operate without interruption, or be free from errors.
-  </p>
-  <h2>12. Limitation of Liability</h2>
-  <p>
-    To the maximum extent permitted by applicable law, we will not be
-    liable for indirect, incidental, special, consequential, or punitive
-    damages arising from or related to your use of the App.
-  </p>
-  <h2>13. Termination</h2>
-  <p>
-    You may stop using the App at any time by uninstalling it from your
-    device.
-  </p>
-  <p>
-    We may restrict or terminate access to the App where reasonably
-    necessary to prevent misuse, comply with legal requirements, or
-    protect the App and its users.
-  </p>
-  <h2>14. Changes to These Terms</h2>
-  <p>
-    We may update these Terms from time to time. Updated Terms will be
-    made available at this page and will include a revised "Last updated"
-    date.
-  </p>
-  <p>
-    Your continued use of the App after updated Terms become effective
-    constitutes acceptance of the revised Terms, to the extent permitted
-    by applicable law.
-  </p>
-  <h2>15. Contact</h2>
-  <p>
-    If you have questions about these Terms of Service, you can contact
-    us through the contact information provided on the Beauty Cam Plus
-    Google Play listing.
-  </p>
+<h1>Terms of Service</h1>
+<p class="updated"><strong>Last updated:</strong> November 9, 2026</p>
+<p>
+These Terms of Service govern your use of the Beauty Cam Plus mobile application.
+By downloading or using Beauty Cam Plus, you agree to these Terms.
+If you do not agree with these Terms, please do not use the application.
+</p>
+<h2>1. Use of the App</h2>
+<p>
+Beauty Cam Plus provides camera, photo editing, video editing, beauty,
+retouching, filters, effects, and related features.
+</p>
+<p>
+You may use the app for personal and lawful purposes. You must not use the
+app for any unlawful, abusive, fraudulent, or unauthorized purpose.
+</p>
+<h2>2. Photos and Videos</h2>
+<p>
+Beauty Cam Plus may require access to your device camera and media library
+to provide its camera, photo, and video features.
+</p>
+<p>
+You are responsible for the photos, videos, and other content you create
+or edit using the app. You must have the necessary rights and permissions
+to use any content you import into the application.
+</p>
+<h2>3. Subscriptions and Purchases</h2>
+<p>
+Beauty Cam Plus may offer paid features, subscriptions, or one-time purchases
+through Google Play.
+</p>
+<p>
+Payments are processed by Google Play and are subject to the applicable
+Google Play terms and payment policies.
+</p>
+<p>
+Subscription prices, billing periods, renewal terms, and available offers
+are displayed through Google Play at the time of purchase.
+</p>
+<p>
+Subscriptions may automatically renew unless cancelled according to the
+applicable Google Play subscription settings.
+</p>
+<h2>4. Advertising</h2>
+<p>
+The app may display advertisements provided by third-party advertising
+services. Advertisements may be subject to the privacy policies and terms
+of those third-party services.
+</p>
+<h2>5. Intellectual Property</h2>
+<p>
+Beauty Cam Plus, including its software, interface, branding, graphics,
+and other application materials, is owned by or licensed to the developer
+and is protected by applicable intellectual property laws.
+</p>
+<p>
+These Terms do not transfer ownership of the application or its intellectual
+property to you.
+</p>
+<h2>6. User Content</h2>
+<p>
+You retain ownership of photos, videos, and other content that you create
+or import into Beauty Cam Plus.
+</p>
+<p>
+You are responsible for ensuring that your use of such content does not
+violate the rights of other people or applicable laws.
+</p>
+<h2>7. Availability and Changes</h2>
+<p>
+We may modify, update, suspend, or discontinue parts of Beauty Cam Plus
+at any time. Features may change as the application is updated.
+</p>
+<h2>8. Disclaimer</h2>
+<p>
+Beauty Cam Plus is provided on an "as is" and "as available" basis to the
+extent permitted by applicable law. We do not guarantee that the application
+will always be available, error-free, or compatible with every device.
+</p>
+<h2>9. Limitation of Liability</h2>
+<p>
+To the maximum extent permitted by applicable law, the developer will not
+be liable for indirect, incidental, special, consequential, or other damages
+arising from your use of or inability to use the application.
+</p>
+<h2>10. Termination</h2>
+<p>
+You may stop using Beauty Cam Plus and uninstall it at any time.
+We may restrict or terminate access to the application where reasonably
+necessary to address misuse, security issues, or violations of these Terms.
+</p>
+<h2>11. Changes to These Terms</h2>
+<p>
+We may update these Terms from time to time. Updated Terms will be made
+available through the application or the associated website.
+</p>
+<h2>12. Contact</h2>
+<p>
+If you have questions about these Terms, you can contact us through the
+contact information provided on the Beauty Cam Plus Google Play listing.
+</p>
 </body>
 </html>
